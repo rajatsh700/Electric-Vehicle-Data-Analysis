@@ -38,6 +38,8 @@ Trend Analysis: Tools for identifying and forecasting market trends based on his
 
 **Clone the Repository:** Start by cloning this repository to your local machine.
 git clone 
+
 **Open the Tableau Dashboard:** Load the Tableau dashboard file (EV_Analysis.twbx) using Tableau Desktop.
+
 **Explore the Data:** Use the interactive features to explore and analyze the EV data.
 
