@@ -1,6 +1,6 @@
 # Electric-Vehicle-Data-Analysis
 
-![image](https://github.com/user-attachments/assets/baeda465-a08d-4190-84c1-8352ed637e04)
+![image](https://github.com/user-attachments/assets/7fcb7459-ed56-4f68-a561-ff20ad1f25d7)
 
 
 Welcome to the Electric Vehicle Data Analysis project! This repository contains a comprehensive Tableau dashboard and accompanying datasets, aimed at exploring and analyzing various aspects of electric vehicle (EV) adoption, usage patterns, and market trends.
